@@ -7,4 +7,3 @@ xgboost
 ipykernel
 flask
 streamlit
--e .
